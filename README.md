@@ -1,8 +1,8 @@
-# Kisaan360
-
+# Kisan360
 Topic: Agro App (Kisan 360…A Perfect Marketplace for all farmers)
 
-Group Members: Samruddhi Ahire (TYCM-II, 13) Sakshi Attarde (TYCM-II, 14) Sharanya Datrange (TYCM-II, 20) Divya Tambat (TYCM-II, 52) Firstly,goto Project Work\CP-20 Kisan360_Agro App.apk and install the application on your mobile phone.
+Group Members: Samruddhi Ahire (TYCM-II, 13) Sakshi Attarde (TYCM-II, 14) Sharanya Datrange (TYCM-II, 20) Divya Tambat (TYCM-II, 52)
+Firstly,goto Project Work\CP-20 Kisan360_Agro App.apk and install the application on your mobile phone.
 
 Step 1: Start the Application.
 
